@@ -1,0 +1,8 @@
+<svg class="background">
+ 
+  <image href="block-fitbit.png" />
+   <image x="74" y="166" width="60" height="60" href="heartbeat-icon-circle-cut-60px.png" />
+  <text id="heartRate"/>
+  <text id="myLabel" />
+  <text id="dateDisplay" />
+</svg>

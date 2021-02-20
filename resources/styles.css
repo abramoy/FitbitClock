@@ -1,0 +1,35 @@
+.background {
+  viewport-fill: navy;
+}
+
+#myLabel {
+  font-size: 80;
+  font-family: System-Regular;
+  text-length: 32;
+  text-anchor: middle;
+  x: 50%;
+  y: 30%+40;
+  fill: white;
+}
+
+#heartRate {
+ font-size: 60;
+  font-family: System-Regular;
+  text-length: 32;
+  text-anchor: middle;
+  x: 50%;
+  y: 70%+40;
+  fill: white; 
+}
+
+#dateDisplay {
+ font-size: 20;
+  font-family: System-Regular;
+  text-length: 32;
+  text-anchor: middle;
+  x: 50%;
+  y: 40%+40;
+  fill: white; 
+}
+
+
